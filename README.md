@@ -3,6 +3,7 @@ FAECTOR Git workshop 2024
 
 Hello world
 
-Hello
+Push it to the limit
+
 
 
